@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ícone do projeto">
+  <rect width="64" height="64" rx="16" fill="#efe6f4"/>
+  <circle cx="32" cy="32" r="22" fill="#7a5ea7"/>
+  <circle cx="32" cy="28" r="10" fill="#f7eef4"/>
+  <path d="M22 44c3.2-7 16.8-7 20 0" fill="none" stroke="#f4d4e2" stroke-width="4" stroke-linecap="round"/>
+</svg>
